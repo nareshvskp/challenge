@@ -119,7 +119,7 @@ Clone this repository
 
   
 
->git clone 
+>git clone https://github.com/nareshvskp/challenge.git
 
   
   
